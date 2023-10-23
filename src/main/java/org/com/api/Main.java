@@ -1,8 +1,8 @@
 package org.com.api;
 
 import com.sun.net.httpserver.HttpServer;
-import org.com.api.handler.tests.MyHandler;
-import org.com.api.handler.tests.SecondHandler;
+import org.com.api.controller.tests.MyHandler;
+import org.com.api.controller.tests.SecondHandler;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
